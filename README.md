@@ -39,14 +39,14 @@ Folder Icon Changer — назначьте папке свою иконку за
 <hr>
 <div align="center">
 <a href="https://github.com/markovuser/Folder-Icon-Changer/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Folder-Icon-Changer?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
-<a href="https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder-Icon-Changer.exe"><img src="https://img.shields.io/github/downloads/markovuser/Folder-Icon-Changer/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
+<a href="https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder-Icon-Changer-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Folder-Icon-Changer/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
 
 </div>
 <br><br>
 
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Folder-Icon-Changer/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder-Icon-Changer.exe)<br>
+[<img src="https://raw.githubusercontent.com/markovuser/Folder-Icon-Changer/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder-Icon-Changer-setup.exe)<br>
 [<img src="https://raw.githubusercontent.com/markovuser/Folder-Icon-Changer/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder.Icon.Changer.zip)
 
 
