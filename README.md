@@ -4,7 +4,7 @@
 <div align=center>
   [EN]<br>
 Folder Icon Changer — assign a custom icon to a folder in seconds
-A simple and lightweight program for Windows that lets you replace the default icon of any folder with your own. Choose images (ICO, PNG, JPG) or system icons to personalize your system, highlight important folders, and make your desktop or File Explorer more convenient.
+A simple and lightweight program for Windows that lets you replace the default icon of any folder with your own. Choose images (ICO) or system icons to personalize your system, highlight important folders, and make your desktop or File Explorer more convenient.
 Key features:
 Support for all popular image formats (ICO).
 Choose icons from Windows system libraries (DLL, EXE).
@@ -19,7 +19,7 @@ Download Folder Icon Changer — manage the appearance of your folders without c
 
   [RU]<br>
 Folder Icon Changer — назначьте папке свою иконку за секунды
-Простая и легкая программа для Windows, которая позволяет заменить стандартную иконку любой папки на собственную. Выбирайте изображения (ICO, PNG, JPG) или системные значки, чтобы персонализировать систему, выделить важные каталоги и сделать рабочий стол или проводник более удобным.
+Простая и легкая программа для Windows, которая позволяет заменить стандартную иконку любой папки на собственную. Выбирайте изображения (ICO) или системные значки, чтобы персонализировать систему, выделить важные каталоги и сделать рабочий стол или проводник более удобным.
 Ключевые возможности:
 Поддержка всех популярных форматов изображений (ICO).
 Выбор иконок из системных библиотек Windows (DLL, EXE).
