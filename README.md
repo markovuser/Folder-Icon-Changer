@@ -47,7 +47,7 @@ Folder Icon Changer — назначьте папке свою иконку за
 <div align="center">
   
 [<img src="https://raw.githubusercontent.com/markovuser/Folder-Icon-Changer/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder-Icon-Changer-setup.exe)<br>
-[<img src="https://raw.githubusercontent.com/markovuser/Folder-Icon-Changer/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder.Icon.Changer.zip)
+[<img src="https://raw.githubusercontent.com/markovuser/Folder-Icon-Changer/main/assets/Portable.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Folder-Icon-Changer/releases/latest/download/Folder.Icon.Changer.zip)
 
 
 </div>
