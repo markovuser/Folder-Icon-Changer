@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.046,=D:\Delphi Programs\Folder Icon Changer\Units\FileInfoUtils\FileInfoUtils.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,=D:\Delphi Programs\Folder Icon Changer\Unit_Update\Unit_Update.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,=D:\Delphi Programs\Folder Icon Changer\Unit_About\Unit_About.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=D:\Delphi Programs\Simple Utilities\Folder Icon Changer\Units\IconExtractorUnit\IconExtractorUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,D:\Delphi Programs\Simple Utilities\Folder Icon Changer\Units\IconExtractorUnit\IconExtractorUnit.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
