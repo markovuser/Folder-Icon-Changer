@@ -34,7 +34,7 @@ Folder Icon Changer — назначьте папке свою иконку за
 </div>
 <hr>
 <div align="center">
-  <img src=https://github.com/markovuser/Folder-Icon-Changer/blob/main/assets/Folder%20Icon%20Changer.jpg width="250">
+  <img src=https://github.com/markovuser/Folder-Icon-Changer/blob/main/assets/app-1.png width="250">
 </div>
 <hr>
 <div align="center">
