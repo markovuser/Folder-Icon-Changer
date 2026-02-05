@@ -1,17 +1,19 @@
 Program FolderIconChanger;
 
-Uses
+
+
+uses
   Forms,
   windows,
-  Unit_Base In 'Unit_Base\Unit_Base.pas' {Form1},
+  Unit_Base in 'Unit_Base\Unit_Base.pas' {Form1},
   Vcl.Themes,
   Vcl.Styles,
-  GetBigIcon In 'Units\GetBigIcon\GetBigIcon.pas',
-  WindowsDarkMode In 'Units\WindowsDarkMode\WindowsDarkMode.pas',
-  Translation In 'Units\Translation\Translation.pas',
-  Unit_Update In 'Unit_Update\Unit_Update.pas' {Form10},
-  Unit_About In 'Unit_About\Unit_About.pas' {Form8},
-  FileInfoUtils In 'Units\FileInfoUtils\FileInfoUtils.pas';
+  GetBigIcon in 'Units\GetBigIcon\GetBigIcon.pas',
+  WindowsDarkMode in 'Units\WindowsDarkMode\WindowsDarkMode.pas',
+  Translation in 'Units\Translation\Translation.pas',
+  Unit_Update in 'Unit_Update\Unit_Update.pas' {Form10},
+  Unit_About in 'Unit_About\Unit_About.pas' {Form8},
+  FileInfoUtils in 'Units\FileInfoUtils\FileInfoUtils.pas';
 
 {$R *.res}
 

@@ -111,8 +111,8 @@
         <DCC_ExeOutput>..\..\Application\Folder Icon Changer\</DCC_ExeOutput>
         <VerInfo_MinorVer>9</VerInfo_MinorVer>
         <VerInfo_Release>26</VerInfo_Release>
-        <VerInfo_Build>204</VerInfo_Build>
-        <VerInfo_Keys>CompanyName=Nikolay Markov;FileDescription=Folder Icon Changer;FileVersion=8.9.26.204;InternalName=Folder Icon Changer;LegalCopyright=Copyright © 2010-2026 All Rights Reserved.;LegalTrademarks=Nikolay Markov;OriginalFilename=Folder Icon Changer;ProductName=Folder Icon Changer;ProductVersion=8.9.26.204;Comments=Folder Icon Changer;ProgramID=Folder Icon Changer</VerInfo_Keys>
+        <VerInfo_Build>205</VerInfo_Build>
+        <VerInfo_Keys>CompanyName=Nikolay Markov;FileDescription=Folder Icon Changer;FileVersion=8.9.26.205;InternalName=Folder Icon Changer;LegalCopyright=Copyright © 2010-2026 All Rights Reserved.;LegalTrademarks=Nikolay Markov;OriginalFilename=Folder Icon Changer;ProductName=Folder Icon Changer;ProductVersion=8.9.26.205;Comments=Folder Icon Changer;ProgramID=Folder Icon Changer</VerInfo_Keys>
         <VerInfo_MajorVer>8</VerInfo_MajorVer>
         <Icon_MainIcon>FolderIconChanger_Icon.ico</Icon_MainIcon>
     </PropertyGroup>
@@ -184,7 +184,7 @@
                 <Platform value="Win64">False</Platform>
             </Platforms>
             <Deployment Version="5">
-                <DeployFile LocalName="Application\Folder Icon Changer\FolderIconChanger.exe" Configuration="Release" Class="ProjectOutput">
+                <DeployFile LocalName="..\..\Application\Folder Icon Changer\FolderIconChanger.exe" Configuration="Release" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>FolderIconChanger.exe</RemoteName>
                         <Overwrite>true</Overwrite>
